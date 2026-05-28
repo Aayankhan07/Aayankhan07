@@ -1,4 +1,4 @@
-[ReadMe.md](https://github.com/user-attachments/files/28355115/ReadMe.md)# 💫 About Me:
+(https://github.com/user-attachments/files/28355115/ReadMe.md)# 💫 About Me:
 🔭 I’m currently working on AI, ML and DL<br>👯 I’m looking to collaborate on AI related projects<br>🤝 I’m looking for help with research in new advancement in AI field<br>🌱 I’m currently learning new advancment in AI <br>💬 Ask me about Python/C++ development, FastAPI backend integration, or SQL databases and AI related anything<br>⚡ Fun fact I love Football
 
 
