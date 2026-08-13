@@ -1,4 +1,13 @@
+
 [ReadMe.md](https://github.com/user-attachments/files/28355200/ReadMe.md)# 💫 About Me:
+
+ <br />
+
+  <!-- Profile Visitor Badge -->
+  <img src="https://komarev.com/ghpvc/?username=Aayankhan07&color=0EA5E9&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+  <br /><br />
+  
 🔭 I’m currently working on AI, ML and DL<br>👯 I’m looking to collaborate on AI related projects<br>🤝 I’m looking for help with research in new advancement in AI field<br>🌱 I’m currently learning new advancment in AI <br>💬 Ask me about Python/C++ development, FastAPI backend integration, or SQL databases and AI related anything<br>⚡ Fun fact I love Football
 
 
@@ -27,33 +36,7 @@
 
 <div align="center">
 
-  <!-- Typing SVG Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&height=50&lines=AI+%26+Machine+Learning+Developer;FastAPI+%26+Backend+Architect;Building+MLOps+%26+RAG+Pipelines" alt="Typing SVG" />
-  </a>
 
-  <br />
-
-  <!-- Profile Visitor Badge -->
-  <img src="https://komarev.com/ghpvc/?username=Aayankhan07&color=0EA5E9&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-
-  <br /><br />
-
-  <!-- Social Media Action Badges -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</div>
-
----
-
-### ⚡ Quick Status
-
-```text
 ┌─────────────────────────────────────────────────────────────────────────┐
 │  🎓 AI Undergraduate @ Bahria University                                │
 │  🧠 Focus: End-to-End AI Pipelines, MLOps, NLP & Low-Latency Backends   │
